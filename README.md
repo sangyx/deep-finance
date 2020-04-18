@@ -7,12 +7,12 @@ Optimization with Stock Embedding](https://www.kdd.org/kdd2019/accepted-papers/v
 * [Investment Behaviors Can Tell What Inside: Exploring Stock
 Intrinsic Properties for Stock Trend Prediction](https://www.kdd.org/kdd2019/accepted-papers/view/investment-behaviors-can-tell-what-inside-exploring-stock-intrinsic-propert)
 
-### GNN & Knowledge Graph
+### Graph Neural Network & Knowledge Graph
 * [Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis](https://arxiv.org/abs/1909.10660)
 * [Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction](https://dl.acm.org/doi/pdf/10.1145/3269206.3269269)
 * [Knowledge-Driven Event Embedding for Stock Prediction](https://www.aclweb.org/anthology/C16-1201)
 
-### Public News and Social Media
+### Public News & Social Media
 * [Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News](https://dl.acm.org/doi/pdf/10.1145/3269206.3269286)
 * [Stock Movement Prediction from Tweets and Historical Prices](https://www.aclweb.org/anthology/P18-1183)
 * [What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues](https://www.aclweb.org/anthology/P19-1038)
