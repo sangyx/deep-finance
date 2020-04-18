@@ -53,11 +53,7 @@ Intrinsic Properties for Stock Trend Prediction](https://www.kdd.org/kdd2019/acc
 
 ## Others
 * 知乎专栏：[人工智能与量化投资](https://zhuanlan.zhihu.com/intro-to-quant)
-
-
-
-欢迎扫码加入微信讨论群!
-
+* 微信讨论群
 <div  align="center">
 <img src="./WeChat.jpg" width="300" alt="图片名称" align=center/>
 </div>
