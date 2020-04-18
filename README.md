@@ -1,4 +1,14 @@
-# `deep-stock`: Deep Learning for Stock Market
+# `deep-stock`: Deep Learning for Stock Market <!-- omit in toc -->
+
+- [Paper](#paper)
+  - [Indicator](#indicator)
+  - [Graph Neural Network & Knowledge Graph](#graph-neural-network--knowledge-graph)
+  - [Public News & Social Media](#public-news--social-media)
+  - [Model](#model)
+- [Book](#book)
+- [Data Source](#data-source)
+- [Website](#website)
+- [Others](#others)
 
 ## Paper
 ### Indicator
@@ -44,7 +54,7 @@ Intrinsic Properties for Stock Trend Prediction](https://www.kdd.org/kdd2019/acc
 ## Others
 * 知乎专栏：[人工智能与量化投资](https://zhuanlan.zhihu.com/intro-to-quant)
 
----
+
 
 欢迎扫码加入微信讨论群!
 
