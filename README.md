@@ -52,8 +52,12 @@ Intrinsic Properties for Stock Trend Prediction](https://www.kdd.org/kdd2019/acc
 * [EarningsCast](https://earningscast.com/): Latest Earnings Calls, EarningsCast - Upcoming Earnings Calls
 
 ## Others
-* 知乎专栏：[人工智能与量化投资](https://zhuanlan.zhihu.com/intro-to-quant)
-* 微信讨论群
-<div  align="center">
-<img src="./WeChat.jpg" width="300" alt="图片名称" align=center/>
-</div>
+* 知乎专栏：[人工智能与量化投资](https://zhuanlan.zhihu.com/intro-to-quant)、[黄金矿工](https://zhuanlan.zhihu.com/c_1234153682486874112)
+* 微信公众号：农药兑水
+  <div  align="center">
+    <img src="./OA.png" width="300" alt="图片名称" align=center/>
+  </div>
+* 微信讨论群:
+  <div  align="center">
+  <img src="./WeChat.jpg" width="300" alt="图片名称" align=center/>
+  </div>
