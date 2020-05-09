@@ -57,7 +57,7 @@ Intrinsic Properties for Stock Trend Prediction](https://www.kdd.org/kdd2019/acc
   <div  align="center">
     <img src="./OA.png" width="300" alt="图片名称" align=center/>
   </div>
-* 微信讨论群:
+* 微信讨论群因为二维码会过期，大家可以加我微信申请进群，请备注一下姓名-机构-方向:
   <div  align="center">
-  <img src="./WeChat.jpg" width="300" alt="图片名称" align=center/>
+    <img src="./WeChat.jpg" width="300" alt="图片名称" align=center/>
   </div>
