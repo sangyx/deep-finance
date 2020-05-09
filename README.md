@@ -1,6 +1,7 @@
 # `deep-stock`: Deep Learning for Stock Market <!-- omit in toc -->
 
 - [Paper](#paper)
+  - [Survey](#survey)
   - [Indicator](#indicator)
   - [Graph Neural Network & Knowledge Graph](#graph-neural-network--knowledge-graph)
   - [Public News & Social Media](#public-news--social-media)
@@ -11,6 +12,9 @@
 - [Others](#others)
 
 ## Paper
+### Survey
+* [Applications of deep learning in stock market prediction: recent progress](https://arxiv.org/abs/2003.01859)
+
 ### Indicator
 * [Individualized Indicator for All: Stock-wise Technical Indicator
 Optimization with Stock Embedding](https://www.kdd.org/kdd2019/accepted-papers/view/individualized-indicator-for-all-stock-wise-technical-indicator-optimizatio)
@@ -19,6 +23,7 @@ Intrinsic Properties for Stock Trend Prediction](https://www.kdd.org/kdd2019/acc
 
 ### Graph Neural Network & Knowledge Graph
 * [Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis](https://arxiv.org/abs/1909.10660)
+* [Temporal Relational Ranking for Stock Prediction](https://arxiv.org/abs/1809.09441)
 * [Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction](https://dl.acm.org/doi/pdf/10.1145/3269206.3269269)
 * [Knowledge-Driven Event Embedding for Stock Prediction](https://www.aclweb.org/anthology/C16-1201)
 
@@ -34,8 +39,9 @@ Intrinsic Properties for Stock Trend Prediction](https://www.kdd.org/kdd2019/acc
 
 
 ## Book
-* [Campbell: The Econometrics of Financial Markets](https://link.zhihu.com/?target=https%3A//item.jd.com/1107212917.html)
-* [De Prado: Advances in Financial Machine Learning](https://link.zhihu.com/?target=https%3A//item.jd.com/39205783211.html)
+* [The Econometrics of Financial Markets](https://link.zhihu.com/?target=https%3A//item.jd.com/1107212917.html)
+* [Advances in Financial Machine Learning](https://link.zhihu.com/?target=https%3A//item.jd.com/39205783211.html)
+* [Financial Decisions and Markets: A Course in Asset Pricing](https://www.semanticscholar.org/paper/Financial-Decisions-and-Markets%3A-A-Course-in-Asset-Campbell/f413566883c4be4f8e55e275e3f70b2aebf9e8fc)
 
 
 ## Data Source
@@ -52,7 +58,7 @@ Intrinsic Properties for Stock Trend Prediction](https://www.kdd.org/kdd2019/acc
 * [EarningsCast](https://earningscast.com/): Latest Earnings Calls, EarningsCast - Upcoming Earnings Calls
 
 ## Others
-* 知乎专栏：[人工智能与量化投资](https://zhuanlan.zhihu.com/intro-to-quant)、[黄金矿工](https://zhuanlan.zhihu.com/c_1234153682486874112)
+* 知乎专栏：[人工智能与量化投资](https://zhuanlan.zhihu.com/intro-to-quant)、[宏观经济算命师的解签](https://zhuanlan.zhihu.com/hgjjsms)、[黄金矿工](https://zhuanlan.zhihu.com/c_1234153682486874112)
 * 微信公众号：农药兑水
   <div  align="center">
     <img src="./OA.png" width="300" alt="图片名称" align=center/>
