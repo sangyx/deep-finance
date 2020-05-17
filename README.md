@@ -6,6 +6,7 @@
   - [Graph Neural Network & Knowledge Graph](#graph-neural-network--knowledge-graph)
   - [Public News & Social Media](#public-news--social-media)
   - [Model](#model)
+  - [Code](#code)
 - [Book](#book)
 - [Data Source](#data-source)
 - [Website](#website)
@@ -36,6 +37,19 @@ Intrinsic Properties for Stock Trend Prediction](https://www.kdd.org/kdd2019/acc
 * [Enhancing Stock Movement Prediction with Adversarial Training](https://www.ijcai.org/Proceedings/2019/0810.pdf)
 * [Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction](https://www.kdd.org/kdd2019/accepted-papers/view/multi-task-recurrent-neural-network-and-higher-order-markov-random-fields-f)
 * [Stock Price Prediction via Discovering Multi-Frequency Trading Patterns](http://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf)
+
+### Code
+**The following table is from [Applications of deep learning in stock market prediction: recent progress](https://arxiv.org/abs/2003.01859)(Table 14: List of articles with public code links.)**
+|Method|Link|
+|:---|:---|
+|Articial neural networks (ANN), decision trees(DT), and support vector machines (SVM) in R|<https://github.com/binweng/ShinyStock>|
+|State frequency memory (SFM) recurrent network|<https://github.com/z331565360/State-Frequency-Memory-stock-prediction>|
+|Hybrid attention network (HAN)|<https://github.com/gkeng/Listening-to-Chaotic-Whishpers--Code>|
+|A deep generative model named Stock-Net|<https://github.com/yumoxu/stocknet-code>|
+|Adversarial attentive LSTM|<https://github.com/fulifeng/Adv-ALSTM>|
+|Relational stock ranking (RSR)|<https://github.com/fulifeng/Temporal_Relational_Stock_Ranking>|
+|Hierarchical graph attention network (HATS)|<https://github.com/dmis-lab/hats>
+|Deep Q-Network|<https://github.com/lee-jinho/DQN-global-stock-market-prediction/>|
 
 
 ## Book
