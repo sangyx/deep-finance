@@ -42,7 +42,7 @@ Intrinsic Properties for Stock Trend Prediction](https://www.kdd.org/kdd2019/acc
 **The following table is from [Applications of deep learning in stock market prediction: recent progress](https://arxiv.org/abs/2003.01859)(Table 14: List of articles with public code links.)**
 |Method|Link|
 |:---|:---|
-|Articial neural networks (ANN), decision trees(DT), and support vector machines (SVM) in R|<https://github.com/binweng/ShinyStock>|
+|Articial neural networks (ANN), decision trees(DT), and support vector machines (SVM) in R|<https://github.com/binweng/ShinyStock>|
 |State frequency memory (SFM) recurrent network|<https://github.com/z331565360/State-Frequency-Memory-stock-prediction>|
 |Hybrid attention network (HAN)|<https://github.com/gkeng/Listening-to-Chaotic-Whishpers--Code>|
 |A deep generative model named Stock-Net|<https://github.com/yumoxu/stocknet-code>|
