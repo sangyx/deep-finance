@@ -16,29 +16,27 @@
 * [Applications of deep learning in stock market prediction: recent progress](https://arxiv.org/abs/2003.01859)
 
 ### Indicator
-* Individualized Indicator for All: Stock-wise Technical Indicator
-Optimization with Stock Embedding [paper](https://www.kdd.org/kdd2019/accepted-papers/view/individualized-indicator-for-all-stock-wise-technical-indicator-optimizatio)
-* Investment Behaviors Can Tell What Inside: Exploring Stock
-Intrinsic Properties for Stock Trend Prediction [paper](https://www.kdd.org/kdd2019/accepted-papers/view/investment-behaviors-can-tell-what-inside-exploring-stock-intrinsic-propert)
+* [Individualized Indicator for All: Stock-wise Technical Indicator Optimization with Stock Embedding](https://www.kdd.org/kdd2019/accepted-papers/view/individualized-indicator-for-all-stock-wise-technical-indicator-optimizatio)
+* [Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction](https://www.kdd.org/kdd2019/accepted-papers/view/investment-behaviors-can-tell-what-inside-exploring-stock-intrinsic-propert)
 
 ### Graph Neural Network & Knowledge Graph
-* Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis [paper](https://arxiv.org/abs/1909.10660)
-* Temporal Relational Ranking for Stock Prediction [paper](https://arxiv.org/abs/1809.09441) [code](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)
-* Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction [paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3269269)
-* Knowledge-Driven Event Embedding for Stock Prediction [paper](https://www.aclweb.org/anthology/C16-1201)
-* HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction [paper](https://arxiv.org/abs/1908.07999) [code](https://github.com/dmis-lab/hats)
+* [Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis](https://arxiv.org/abs/1909.10660)
+* [Temporal Relational Ranking for Stock Prediction](https://arxiv.org/abs/1809.09441) [\[code\]](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)
+* [Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction](https://dl.acm.org/doi/pdf/10.1145/3269206.3269269)
+* [Knowledge-Driven Event Embedding for Stock Prediction](https://www.aclweb.org/anthology/C16-1201)
+* [HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction](https://arxiv.org/abs/1908.07999) [\[code\]](https://github.com/dmis-lab/hats)
 
 ### Public News & Social Media
-* Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News [paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3269286)
-* Stock Movement Prediction from Tweets and Historical Prices [paper](https://www.aclweb.org/anthology/P18-1183) [code](https://github.com/yumoxu/stocknet-code)
-* What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues [paper](https://www.aclweb.org/anthology/P19-1038)
-* Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction [paper](https://arxiv.org/abs/1712.02136) [code](https://github.com/gkeng/Listening-to-Chaotic-Whishpers--Code)
+* [Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News](https://dl.acm.org/doi/pdf/10.1145/3269206.3269286)
+* [Stock Movement Prediction from Tweets and Historical Prices](https://www.aclweb.org/anthology/P18-1183) [\[code\]](https://github.com/yumoxu/stocknet-\[code\])
+* [What You Say and How You Say It Matters: Predicting Financial Risk Using Verbal and Vocal Cues](https://www.aclweb.org/anthology/P19-1038)
+* [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://arxiv.org/abs/1712.02136) [\[code\]](https://github.com/gkeng/Listening-to-Chaotic-Whishpers--\[code\])
 
 ### Model
-* Enhancing Stock Movement Prediction with Adversarial Training [paper](https://www.ijcai.org/Proceedings/2019/0810.pdf) [code](model/adv-alstm.py)
-* Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction [paper](https://www.kdd.org/kdd2019/accepted-papers/view/multi-task-recurrent-neural-network-and-higher-order-markov-random-fields-f)
-* Stock Price Prediction via Discovering Multi-Frequency Trading Patterns [paper](http://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf) [code](model/sfm.py)
-* A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction [paper](https://arxiv.org/abs/1704.02971) [code](model/da-rnn.py)
+* [Enhancing Stock Movement Prediction with Adversarial Training](https://www.ijcai.org/Proceedings/2019/0810.pdf) [\[code\]](model/adv-alstm.py)
+* [Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction](https://www.kdd.org/kdd2019/accepted-papers/view/multi-task-recurrent-neural-network-and-higher-order-markov-random-fields-f)
+* [Stock Price Prediction via Discovering Multi-Frequency Trading Patterns](http://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf) [\[code\]](model/sfm.py)
+* [A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://arxiv.org/abs/1704.02971) [\[code\]](model/da-rnn.py)
 
 
 ## Book
