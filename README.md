@@ -99,8 +99,8 @@
 
 
 ## Others
-* 知乎专栏：[黄金矿工](https://zhuanlan.zhihu.com/c_1234153682486874112), [人工智能与量化投资](https://zhuanlan.zhihu.com/intro-to-quant)
+* 知乎专栏：[黄金矿工](https://www.zhihu.com/column/c_1336229676193095680), [人工智能与量化投资](https://zhuanlan.zhihu.com/intro-to-quant)
 * 对于这一方向感兴趣的各位童鞋，欢迎关注微信公众号“农药兑水”，分享金融科技相关的学术论文、开源项目以及技术资讯：
   <div  align="center">
-    <img src="./OA.png" width="300" alt="图片名称" align=center/>
+    <img src="./OA.png" width="300" alt="农药兑水" align=center/>
   </div>
