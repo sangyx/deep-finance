@@ -10,7 +10,7 @@
     <td>&ensp;<a href="#portfolio-selection">2.2 Portfolio Selection</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#risk-control">2.3 Risk Control</a></td>
+    <td>&emsp;<a href="#risk-management">2.3 Risk Management</a></td>
     <td>&ensp;<a href="#finance-nlp">2.4 Finance NLP</a></td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@
     *Ke Xu, Yifan Zhang, Deheng Ye, Peilin Zhao, Mingkui Tan*
 
 
-### [Risk Control](#content)
+### [Risk Management](#content)
 1. **Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0643.pdf)
 
     *Shuo Yang, Zhiqiang Zhang, Jun Zhou, Yang Wang, Wang Sun, Xingyu Zhong, Yanming Fang, Quan Yu, Yuan Qi*
@@ -186,6 +186,91 @@
 9.  **Risk-Averse Trust Region Optimization for Reward-Volatility Reduction**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0632.pdf)
     
     *Lorenzo Bisi, Luca Sabbioni, Edoardo Vittori, Matteo Papini, Marcello Restelli*
+
+<!-- KDD 2017: Anomaly Detection in Finance
+Jaroslav Kuchař and Vojtěch Svátek. Spotlighting Anomalies using Frequent Patterns
+Bokai Cao, Mia Mao, Siim Viidu and Philip S. Yu. Collective Fraud Detection Capturing Inter-Transaction Dependency
+Nalin Aggarwal, Alexander Statnikov and Chao Yuan. Automated System for Data Attribute Anomaly Detection
+Michelle Miller and Robert Cezeaux. Sleuthing for adverse outcomes using anomaly detection
+Parikshit Ram and Alexander Gray. Anomaly detection with density estimation trees
+Matthew van Adelsberg and Christian Schwantes. Binned Kernels for Anomaly Detection in Multi-timescale Data using Gaussian Processes
+Rasha Kashef. Ensemble-based Anomaly Detection Using Cooperative Agreement
+Ira Cohen, Meir Toledano, Yonatan Ben Simhon and Inbal Tadeski. Real-time anomaly detection system for time series at scale
+Youngjoon Ki and Ji Won Yoon. PD-FDS: Purchase Density based Online Credit Card Fraud Detection System
+Daniel Lasaga and Prakash Santhana. Deep Learning to Detect Treatment Fraud amongst Healthcare Providers
+Nian Yan, Xiaohang Zhang and Sriram Tirunellayi. Identity Fraud Detection with Distributed Graph Mining
+Sen Tian and Panos Ipeirotis. Large-Scale Anomaly Detection
+Jagan Kuntipuram, Vamsi Patil, Marco Jorge and Pedro Bizarro. Fraud-Trips: Detecting fraudsters that try to lay low -->
+
+<!-- KDD 2019
+[09:00 - 09:05 AM] Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks - Marco Schreyer (University of St. Gallen); Timur Sattarov (Deutsche Bundesbank); Christian Schulze (University of St. Gallen); Bernd Reimer (PricewaterhouseCoopers GmbH WPG); Damian Borth (University of St. Gallen)
+[09:05 - 09:10 AM] Risk Management via Anomaly Circumvent: Mnemonic Deep Learning for Midterm Stock Prediction - Xinyi Li (Columbia University); Yinchuan Li (Columbia University); Xiao-Yang Liu (Columbia University); Christina Dan Wang (New York University)
+[09:10 - 09:15 AM] Case-Based Reasoning for Assisting Domain Experts in Processing Fraud Alerts of Black-Box Machine Learning Models - Hilde J.P. Weerts (Eindhoven University of Technology); Mykola Pechenizkiy (TU Eindhoven); Werner van Ipenburg (Cooperatieve Rabobank U.A.)
+[09:15 - 09:20 AM] A framework for anomaly detection using language modeling, and its applications to finance - Armineh Nourbakhsh (S&P Global Ratings); Grace Bang (S&P Global)
+[09:20 - 09:25 AM] Detecting Unusual Expense Groups for Customer Advice Apps - Axel Brando (BBVA Data & Analytics); Jose Rodriguez-Serrano (BBVA Analytics SL); Jordi Vitria (Universitat de Barcelona)
+[09:25 - 09:30 AM] Empirical Study on Detecting Controversy in Social Media Zhiqiang Ma (S&P Global); Xiaomo Liu (S&P Global); Azadeh Nematzadeh (S&P Global); Grace Bang (S&P Global)
+Automating Data Monitoring: Detecting Structural Breaks in Time Series Data Using Bayesian Minimum Description Length - Yingbo Li (Capital One)
+Infusing domain knowledge in AI-based "black box" models for better explainability with application in bankruptcy prediction - Sheikh Rabiul Islam (Tennessee Technological University); William Eberle (Tennessee Tech. University); Sid Bundy (Tennessee Technological University); Sheikh Khaled Ghafoor (Tennessee Technological University)
+Automatic Model Monitoring for Data Streams - Fábio Pinto (Feedzai); Marco O P Sampaio (Feedzai); Pedro Bizarro (Feedzai)
+Online NEAT for Credit Evaluation - a Dynamic Problem with Sequential Data - Yue Liu (The Southern University of Science and Technology ); Adam Ghandar (Southern University of Science and Technology); Georgios Theodoropoulos (Southern University of Science and Technology)
+Detecting Anomalies in Sequential Data with Higher-Order Networks - Mandana Saebi (University of Notre Dame)
+Calibration for Anomaly Detection - Adrian Benton (Bloomberg L.P.)
+Textual Outlier Detection and Anomalies in Financial Reporting - Leslie Barrett (Bloomberg L.P.)
+Detecting anomalous doctors by measuring behavioral volatility using temporal clustering - Daniel A Lasaga (Deloitte)
+Multi-Modal and Multi-Level Machine Learning for Fake Rideshare Trip Detection - Chengliang Yang (Uber Techologies)
+Systematic detection of fraudulent account registration - Yun Zhang (Uber technologies, Inc)
+Dynamic Linear Regression for Variable Level Monitoring - Thomas J Caputo (Capital One) -->
+
+<!-- KDD 2020
+Machine learning methods to detect money laundering in the Bitcoin blockchain in the presence of label scarcity, Joana Lorenz (NOVA-IMS); Maria Ines P P Silva (Feedzai)*; David Aparicio (Feedzai); Joao Ascesao (Feedzai); Pedro Bizarro (Feedzai) Paper #13 [Video]
+
+On the Robustness of Deep Reinforcement Learning Based Optimal Trade Execution Systems, Siyu Lin (University of Virginia)*; Peter Beling (University of Virginia), Paper #15 [Video]
+
+Detection of Balance Anomalies with Quantile Regression: the Power of Non-symmetry, David Muelas Recuenco (BBVA Data & Analytics)*; Luis Peinado (BBVA Data & Analytics); Axel Brando (BBVA Data & Analytics); Jose Rodriguez-Serrano (BBVA Analytics SL), Paper #20 [Video] [Paper]
+
+Navigating the Dynamics of Financial Embeddings over Time, Alan O Salimov (Capital One)*; Brian Nguyen (Capital One); Antonia Gogoglou (Capital One); C Bayan Bruss (Capital One); Jonathan Rider (Capital One), Paper #18 [Video] [Paper]
+
+Evolution of Credit Risk Using a Personalized Pagerank Algorithm for Multilayer Networks, Cristian Bravo (University of Western Ontario)*; María Óskarsdóttir (University of Reykjavík), Paper #11 [Video] [Paper]
+
+Mitigating Bias in Online Microfinance Platforms: A Case Study on Kiva.org, Soumajyoti Sarkar (Arizona State University)*; Hamidreza Alvari (Arizona State University), Paper #29 [Video]
+
+Accurate and Intuitive Contextual Explanations using Linear Model Trees, Aditya Lahiri (American Express)*; Narayanan U Edakunni (American Express AI Labs), Paper #3 [Video] [Paper]
+
+Multi-stream RNN for Merchant Transaction Prediction, Zhongfang Zhuang (Visa Research)*; Michael Yeh (Visa Research); Liang Wang (Visa Research); Wei Zhang (Visa Research); Junpeng Wang (Visa Research), Paper #5 [Slides] [Video]
+
+Financial Sentiment Analysis with Pre-trained Language Models, Dogu Araci (Prosus)*; Zulkuf Genc (Prosus), Paper # 9 [Video]
+
+Adverse Media Mining for KYC and ESG Compliance, Rupinder P Khandpur (Virginia Tech); Ashit Talukder (Moody's Analytics); Rupinder Khandpur (Moodys Analytics)*, Paper #34 [Video]
+
+CoronaPulse: Real-Time Sentiment Analysis and Emergent Multi-Sector Financial Risk Detection From CoVID-19 Events, Ashit Talukder (Moody's Analytics)*; Daulet Nurmanbetov (Moody's Analytics), Paper #28 [Video] [Paper]
+
+A Scalable Framework for Group Fraud Detection in Transaction using Deep Graph Neural Network, Wei Min (eBay)*; Zhichao Han (eBay); Zitao Zhang (eBay); Shengqian Chen (eBay); Wenyu Dong (eBay); Yang Zhao (eBay), Paper #19 [Video] [Slides] [Paper]
+
+A Unified Machine Learning Framework for Targeting Financial Product Offerings, Shankar Sankararaman (Intuit)*; Debasish Das (Intuit); Deepesh Ramachandran Vijayalekshmi (Intuit); Babak Aghazadeh (Intuit), Paper #16 [Video] [Paper]
+
+Machine Learning for Temporal Data in Finance: Challenges and Opportunities, Jason Wittenbach (Capital One)*; C Bayan Bruss (Capital One); Brian d'Alessandro (Capital One), Paper #30 [Video]
+
+Predicting Account Receivables with Machine Learning, Ana Paula Appel (IBM)*; Gabriel Malfatti (IBM Research); Renato Cunha (IBM); Bruno Lima (IBM Research); Rogerio de Paula (IBM Research, Brazil), Paper #6 [Video] [Paper]
+
+Explainable Clustering and Application to Wealth Management Compliance, Enguerrand Horel (Stanford University)*; Kay Giesecke (Stanford University); Victor Storchan (J.P. Morgan); Naren Chittar (J.P. Morgan), Paper #7 [Video] [Paper]
+
+FairXGBoost: Fairness-aware Classification in XGBoost, Srinivasan Ravichandran (American Express)*; Drona Khurana (American Express); Bharath Venkatesh (American Express); Narayanan U Edakunni (American Express AI Labs), Paper #23 [Video] [Paper]
+
+Hierarchical Contextual Document Embeddings for Long Financial Text Regression, Vipula Rawte (Rensselaer Polytechnic Institute)*; Aparna Gupta (RPI); Mohammed Zaki (RPI), Paper #31 [Video] [Paper]
+
+On the Optimal Baseline Auto Insurance Premium, Patrick Hosein (University of the West Indies)*, Paper #21 [Video] [Paper]
+
+Personalized Welcome Messages in Conversational Chatbots via Time Aware Self-Attentive Models, Homa Foroughi (Intuit)*; Chang Liu (Intuit); Pankaj Gupta (Intuit), Paper #10 [Video] [Paper]
+
+Data- and Model-driven Multi-Touch Attribution for Omnichannel Conversions, Yue Duan (Capital One)*; Jie Shen (Capital One), Paper #22 [Video] [Paper]
+
+Dealing with missing Industry Codes: Imputation and Representation using Sequence Classification, Behrouz Saghafikhadem (Capital One); Jihan Wei (Capital One); Jiankun Liu (Capital One)*;Nickolas Wilson (Capital One); Ankur Mohan (Capital One), Paper #35 [Video] [Paper]
+
+Towards Earnings Call and Stock Price Movement, Zhiqiang Ma (S&P Global)*; Grace Bang (S&P Global); Xiaomo Liu (S&P Global); Chong Wang (S&P Global ), Paper #2 [Video] [Paper]
+
+Evidence of Rising Market Efficiency from Intra-day Equity Price Prediction, David Byrd (Ga Tech)*; Tucker Balch (JP Morgan), Paper #27 [Video] [Paper]
+
+Alpha Discovery Neural Network, the Special Fountain of Financial Trading Signals, Jie Fang (Tsinghua University)*; Shutao Xia (Tsinghua University); Jianwu Lin (Tsinghua Shenzhen Graduate School); Zhikang Xia (Tsinghua University); Xiang Liu (Tsinghua Shenzhen International Graduate School); Yong Jiang (Tsinghua University), Paper #1 [Video] [Poster] [Paper] -->
 
 
 ### [Finance NLP](#content)
@@ -260,6 +345,31 @@
     *Michael Poli, Jinkyoo Park, Ilija Ilievski*
 
 
+<!-- ### [AAAI 2020: Knowledge Discovery from Unstructured Data in Financial Services]
+Explainable Deep Behavioral Sequence Clustering for Transaction Fraud Detection
+Wei Min, Weiming Liang, Hang Yin, Zhurong Wang, Alok Lal and Mei Li
+Corporate Cyber-security Event Detection Platform
+Zheng Nie, Jingjing Feng, Steve Pomerville and Azadeh Nematzadeh
+Data Augmentation Methods for Reject Inference in Credit Risk Models
+Jingxian Liao, Wei Wang, Jason Xue and Anthony Lei
+AR-Stock: Deep Augmented Relational Stock Prediction
+Tianxin Wei, Yuning You and Tianlong Chen
+Building a Credit Risk Model using Transfer Learning and Domain Adaptation
+Hendra Suryanto, Charles Guan, Ada Guan, Pengqian Li, Paul Compton, Michael Bain and Ghassan Beydoun
+Boosting over Deep Learning for Earnings
+Stephen Choi, Xinyue Cui and Jingran Zhao
+Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks
+Marco Schreyer, Christian Schulze and Damian Borth
+Sensitive Data Detection with High-Throughput Neural Network Models for Financial Institutions
+Anh Truong, Austin Walters and Jeremy Goodsitt
+Knowledge discovery with Deep RL for selecting financial hedges
+Eric Benhamou, David Saltiel, Sandrine Ungari, Abhishek Mukhopadhyay, Jamal Atif and Rida Laraki
+A Comparison of Multi-View Learning Strategies for Satellite Image-Based Real Estate Appraisal
+Jan-Peter Kucklick and Oliver Müller
+PayVAE: A Generative Model for Financial Transactions
+Niccolo Dalmasso, Robert Tillman, Prashant Reddy and Manuela Veloso -->
+
+
 ## [Book](#content)
 1. [The Econometrics of Financial Markets](https://item.jd.com/1107212917.html)
 
@@ -280,13 +390,13 @@
     <table style="margin-left: 20px; margin-right: auto;">
         <tr>
             <td>
-                <img src="./docs/figs/Zhihu.png" />
+                <img src="./figs/Zhihu.png" />
             </td>
             <td>
-                <img src="./docs/figs/OA.png" />
+                <img src="./figs/OA.png" />
             </td>
             <td>
-                <img src="./docs/figs/Wechat.png">
+                <img src="./figs/Wechat.png">
             </td>
         </tr>
     </table>
