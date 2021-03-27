@@ -149,6 +149,14 @@
    
     *Ke Xu, Yifan Zhang, Deheng Ye, Peilin Zhao, Mingkui Tan*
 
+7. **Vector Autoregressive Weighting Reversion Strategy for Online Portfolio Selection**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0616.pdf)
+    
+    *Xia Cai*
+
+8. **An End-to-End Optimal Trade Execution Framework based on Proximal Policy Optimization**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0627.pdf)
+    
+    *Siyu Lin, Peter A. Beling*
+
 
 ### [Risk Management](#content)
 1. **Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0643.pdf)
@@ -167,40 +175,62 @@
     
     *Weili Chen, Xiongfeng Guo, Zhiguang Chen, Zibin Zheng, Yutong Lu*
 
-5. **Vector Autoregressive Weighting Reversion Strategy for Online Portfolio Selection**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0616.pdf)
-    
-    *Xia Cai*
-
-6. **An End-to-End Optimal Trade Execution Framework based on Proximal Policy Optimization**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0627.pdf)
-    
-    *Siyu Lin, Peter A. Beling*
-
-7. **Interpretable Multimodal Learning for Intelligent Regulation in Online Payment Systems**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0645.pdf)
+5. **Interpretable Multimodal Learning for Intelligent Regulation in Online Payment Systems**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0645.pdf)
     
     *Shuoyao Wang, Diwei Zhu*
 
-8. **Risk Guarantee Prediction in Networked-Loans**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0618.pdf)
+6. **Risk Guarantee Prediction in Networked-Loans**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0618.pdf)
     
     *Dawei Cheng, Xiaoyang Wang, Ying Zhang, Liqing Zhang*
 
-9.  **Risk-Averse Trust Region Optimization for Reward-Volatility Reduction**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0632.pdf)
+7.  **Risk-Averse Trust Region Optimization for Reward-Volatility Reduction**. IJCAI 2020: AI in FinTech . [paper](https://www.ijcai.org/Proceedings/2020/0632.pdf)
     
     *Lorenzo Bisi, Luca Sabbioni, Edoardo Vittori, Matteo Papini, Marcello Restelli*
 
-<!-- KDD 2017: Anomaly Detection in Finance
-Jaroslav Kuchař and Vojtěch Svátek. Spotlighting Anomalies using Frequent Patterns
-Bokai Cao, Mia Mao, Siim Viidu and Philip S. Yu. Collective Fraud Detection Capturing Inter-Transaction Dependency
-Nalin Aggarwal, Alexander Statnikov and Chao Yuan. Automated System for Data Attribute Anomaly Detection
-Michelle Miller and Robert Cezeaux. Sleuthing for adverse outcomes using anomaly detection
-Parikshit Ram and Alexander Gray. Anomaly detection with density estimation trees
-Matthew van Adelsberg and Christian Schwantes. Binned Kernels for Anomaly Detection in Multi-timescale Data using Gaussian Processes
-Rasha Kashef. Ensemble-based Anomaly Detection Using Cooperative Agreement
-Ira Cohen, Meir Toledano, Yonatan Ben Simhon and Inbal Tadeski. Real-time anomaly detection system for time series at scale
-Youngjoon Ki and Ji Won Yoon. PD-FDS: Purchase Density based Online Credit Card Fraud Detection System
-Daniel Lasaga and Prakash Santhana. Deep Learning to Detect Treatment Fraud amongst Healthcare Providers
-Nian Yan, Xiaohang Zhang and Sriram Tirunellayi. Identity Fraud Detection with Distributed Graph Mining
-Sen Tian and Panos Ipeirotis. Large-Scale Anomaly Detection
-Jagan Kuntipuram, Vamsi Patil, Marco Jorge and Pedro Bizarro. Fraud-Trips: Detecting fraudsters that try to lay low -->
+8. **Spotlighting Anomalies using Frequent Patterns**. KDD 2017: Anomaly Detection in Finance . [paper](http://proceedings.mlr.press/v71/kuchar18a/kuchar18a.pdf)
+    
+    *Jaroslav Kuchař, Vojtěch Svátek*
+    
+9. **Collective Fraud Detection Capturing Inter-Transaction Dependency**. KDD 2017: Anomaly Detection in Finance . [paper](http://proceedings.mlr.press/v71/cao18a/cao18a.pdf)
+    
+    *Bokai Cao, Mia Mao, Siim Viidu, Philip S. Yu*
+    
+10. **Automated System for Data Attribute Anomaly Detection**. KDD 2017: Anomaly Detection in Finance . [paper](http://proceedings.mlr.press/v71/love18a/love18a.pdf)
+    
+    *Nalin Aggarwal, Alexander Statnikov, Chao Yuan*
+
+<details><summary> more </summary>
+
+11. **Sleuthing for adverse outcomes using anomaly detection**. KDD 2017: Anomaly Detection in Finance . [paper](http://proceedings.mlr.press/v71/miller18a/miller18a.pdf)
+    
+    *Michelle Miller, Robert Cezeaux*
+    
+12. **Anomaly detection with density estimation trees**. KDD 2017: Anomaly Detection in Finance . [paper](http://proceedings.mlr.press/v71/ram18a/ram18a.pdf)
+    
+    *Parikshit Ram, Alexander Gray*
+    
+13. **Binned Kernels for Anomaly Detection in Multi-timescale Data using Gaussian Processes**. KDD 2017: Anomaly Detection in Finance . [paper](http://proceedings.mlr.press/v71/adelsberg18a/adelsberg18a.pdf)
+    
+    *Matthew van Adelsberg, Christian Schwantes*
+    
+14. **Ensemble-based Anomaly Detection Using Cooperative Agreement**. KDD 2017: Anomaly Detection in Finance . [paper](http://proceedings.mlr.press/v71/kashef18a/kashef18a.pdf)
+    
+    *Rasha Kashef*
+    
+15. **Real-time anomaly detection system for time series at scale**. KDD 2017: Anomaly Detection in Finance . [paper](http://proceedings.mlr.press/v71/toledano18a/toledano18a.pdf)
+    
+    *Ira Cohen, Meir Toledano, Yonatan Ben Simhon, Inbal Tadeski*
+    
+16. **PD-FDS: Purchase Density based Online Credit Card Fraud Detection System**. KDD 2017: Anomaly Detection in Finance . [paper](http://proceedings.mlr.press/v71/ki18a/ki18a.pdf)
+    
+    *Youngjoon Ki, Ji Won Yoon*
+    
+17. **Deep Learning to Detect Treatment Fraud amongst Healthcare Providers**. KDD 2017: Anomaly Detection in Finance . [paper](http://proceedings.mlr.press/v71/lasaga18a/lasaga18a.pdf)
+    
+    *Daniel Lasaga, Prakash Santhana*
+
+</details>
+    
 
 <!-- KDD 2019
 [09:00 - 09:05 AM] Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks - Marco Schreyer (University of St. Gallen); Timur Sattarov (Deutsche Bundesbank); Christian Schulze (University of St. Gallen); Bernd Reimer (PricewaterhouseCoopers GmbH WPG); Damian Borth (University of St. Gallen)
