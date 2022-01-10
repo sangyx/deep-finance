@@ -420,10 +420,10 @@ Niccolo Dalmasso, Robert Tillman, Prashant Reddy and Manuela Veloso -->
     <table style="margin-left: 80px; margin-right: auto;">
         <tr>
             <td>
-                <img src="./figs/Zhihu.png" />
+                <img src="./figs/Zhihu.png" style="max-width: 50%;"/>
             </td>
             <td>
-                <img src="./figs/OA.png" />
+                <img src="./figs/OA.png" style="max-width: 50%;"/>
             </td>
         </tr>
     </table>
