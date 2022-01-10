@@ -425,9 +425,6 @@ Niccolo Dalmasso, Robert Tillman, Prashant Reddy and Manuela Veloso -->
             <td>
                 <img src="./figs/OA.png" />
             </td>
-            <td>
-                <img src="./figs/Wechat.png">
-            </td>
         </tr>
     </table>
 </html>
