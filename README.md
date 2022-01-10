@@ -417,7 +417,7 @@ Niccolo Dalmasso, Robert Tillman, Prashant Reddy and Manuela Veloso -->
 对于AI+Finance方向感兴趣的童鞋，欢迎扫描下面的二维码学习交流：
 
 <html>
-    <table style="margin-left: 20px; margin-right: auto;">
+    <table style="margin-left: 80px; margin-right: auto;">
         <tr>
             <td>
                 <img src="./figs/Zhihu.png" />
