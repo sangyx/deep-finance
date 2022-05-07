@@ -1,5 +1,7 @@
 # `deep-finance`: Deep Learning for Finance
 
+> This repository is no longer updated.
+
 ## [Content](#content)
 
 <table>
