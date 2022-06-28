@@ -1,6 +1,6 @@
 # `deep-finance`: Deep Learning for Finance
 
-> This repository is no longer updated since the worthwhile studies in this field are rare. If you are really interested in Deep Learning & Finance, it's better to read high quality papers on **Time Series Forecasting**, **Natural Language Processing**, **Graph Neural Networks**, **Recommendation System** and **Finance**, whose ideas and models may be more helpful.
+> This repository is no longer updated since the interesting works in this field are rare. If you are really interested in Deep Learning & Finance, it's better to read high quality papers on **Time Series Forecasting**, **Natural Language Processing**, **Graph Neural Networks**, **Recommendation System** and **Finance**, whose ideas and models may be more helpful.
 
 ## [Content](#content)
 
